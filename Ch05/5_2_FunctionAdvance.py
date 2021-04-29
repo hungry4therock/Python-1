@@ -48,9 +48,11 @@ rs3, rs4 = sum_and_multi(3, 4)
 print('rs1 : %d, rs2 : %d' % (rs1, rs2))
 print('rs3 : %d, rs4 : %d' % (rs3, rs4))
 
+
 # 변수에 저장하는 함수
 def plus(x, y):
     return x+y
+
 
 def minus(x, y):
     return x-y
